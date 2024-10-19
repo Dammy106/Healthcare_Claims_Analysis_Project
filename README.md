@@ -1,5 +1,5 @@
 # Healthcare Claims Analysis Project
-Using Unsupervised Learning and Chatgpt to analyze healthcare claims data
+Using Unsupervised Learning to analyze healthcare claims data
 ## Project Overview
 This project focuses on analyzing healthcare claims data to uncover trends and patterns related to healthcare costs and demographic factors. It includes exploratory data analysis (EDA), feature engineering, and customer segmentation using clustering techniques like K-means. The analysis provides insights into how various factors like smoking, BMI, and age impact claim amounts.
 
